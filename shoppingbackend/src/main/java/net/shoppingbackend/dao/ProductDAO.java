@@ -2,7 +2,7 @@ package net.shoppingbackend.dao;
 
 import java.util.List;
 
-import net.shoppingbackend.dto.Category;
+
 import net.shoppingbackend.dto.Product;
 
 public interface ProductDAO {

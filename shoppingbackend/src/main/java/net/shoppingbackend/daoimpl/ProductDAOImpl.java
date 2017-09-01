@@ -8,7 +8,6 @@ import org.springframework.stereotype.Repository;
 import org.springframework.transaction.annotation.Transactional;
 
 import net.shoppingbackend.dao.ProductDAO;
-import net.shoppingbackend.dto.Category;
 import net.shoppingbackend.dto.Product;
 
 

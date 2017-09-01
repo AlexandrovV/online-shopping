@@ -9,7 +9,6 @@ import org.springframework.transaction.annotation.Transactional;
 
 import net.shoppingbackend.dao.UserDAO;
 import net.shoppingbackend.dto.Address;
-import net.shoppingbackend.dto.Cart;
 import net.shoppingbackend.dto.User;
 
 @Repository("userDAO")
